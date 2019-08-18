@@ -1,13 +1,6 @@
 # CYB3RJUNKI3
 it's cyber. And junkie!
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title>Example</title>
-    </head>
-    <body>
-        <pre>
+
              __             _        __    _     
  ____ __ __ / /  ___  ____ (_)__ __ / /__ (_)___ 
 / __// // // _ \/ -_)/ __// // // //  '_// // -_)
@@ -15,9 +8,7 @@ it's cyber. And junkie!
     /___/             |___/                      
 
 
-        </pre>
-    	</body>
-	</html>
+      
 
 
 					    #1#
