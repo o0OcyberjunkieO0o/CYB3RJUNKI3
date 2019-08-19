@@ -12,10 +12,10 @@ it's cyber. And junkie!
       
 
 
-					    #1#
-                                        12/08/2019
+					 #1#
+                                     12/08/2019
                                   
-                                Escrito por B4by_Kommando
+                              Escrito por B4by_Kommando
 
                                            
 		888888888888888888888888888888888888888888888888888888888888
